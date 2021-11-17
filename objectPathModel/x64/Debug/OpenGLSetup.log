@@ -1,0 +1,24 @@
+﻿  mechBotAnimator.cpp
+c:\users\long\source\repos\test3\mechbotanimator.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\long\source\repos\test3\mechbotanimator.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\long\source\repos\test3\mechbotanimator.cpp(44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\long\source\repos\test3\mechbotanimator.cpp(173): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(184): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(191): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(199): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(419): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\long\source\repos\test3\mechbotanimator.cpp(424): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\long\source\repos\test3\mechbotanimator.cpp(509): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(510): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(545): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(559): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(566): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(574): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(597): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(598): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(606): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(607): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(615): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\long\source\repos\test3\mechbotanimator.cpp(616): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OpenGLSetup.vcxproj -> C:\Users\Long\source\repos\Test3\x64\Debug\OpenGLSetup.exe
+          1 file(s) copied.

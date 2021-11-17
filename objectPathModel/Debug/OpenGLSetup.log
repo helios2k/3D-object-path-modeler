@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C2144: syntax error: 'int' should be preceded by ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sal.h(2361): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\long\source\repos\openglsetup\openglsetup\source.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\long\source\repos\openglsetup\openglsetup\source.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\long\source\repos\openglsetup\openglsetup\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
